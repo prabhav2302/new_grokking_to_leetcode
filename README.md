@@ -15,15 +15,15 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-substring/)
 
-- [ ] [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
+- [X] [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
 
-- [X] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 
 - [ ] [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 - [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [X] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ## Two Pointers
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
