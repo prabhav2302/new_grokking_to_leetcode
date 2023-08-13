@@ -114,9 +114,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Modified Binary Search
 
-- [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [X] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
-- [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [X] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 
 - [ ] [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
 
@@ -128,11 +128,11 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Subsets
 
-- [ ] [Subsets](https://leetcode.com/problems/subsets/)
+- [X] [Subsets](https://leetcode.com/problems/subsets/)
 
-- [ ] [Permutations](https://leetcode.com/problems/permutations/)
+- [X] [Permutations](https://leetcode.com/problems/permutations/)
 
-- [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+- [X] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
 - [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 
@@ -178,7 +178,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
 
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [X] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
 ## Cyclic Sort
 
@@ -202,7 +202,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 
-- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [X] [Course Schedule](https://leetcode.com/problems/course-schedule/)
 
 - [ ] [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)
 
@@ -218,25 +218,25 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [X] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ## Tree Depth First Search
 
 - [ ] [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 
-- [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [X] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
-- [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [X] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 
 - [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [X] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 ## Tree Breadth First Search
 
-- [ ] [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [X] [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
 - [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 
@@ -294,7 +294,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Redundant Connection](https://leetcode.com/problems/redundant-connection/)
 
-- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [X] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 
 - [ ] [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)
 
