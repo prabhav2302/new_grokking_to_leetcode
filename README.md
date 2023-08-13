@@ -106,7 +106,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 
-- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+- [X] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
 - [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
