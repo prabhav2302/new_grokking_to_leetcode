@@ -154,7 +154,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [N-Queens](https://leetcode.com/problems/n-queens/)
 
-- [ ] [Word Search](https://leetcode.com/problems/word-search/)
+- [X] [Word Search](https://leetcode.com/problems/word-search/)
 
 - [X] [House Robber III](https://leetcode.com/problems/house-robber-iii/)
 
