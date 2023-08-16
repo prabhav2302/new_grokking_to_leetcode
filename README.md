@@ -168,7 +168,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [0/1 Knapsack]()?
 
-- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
+- [X] [Coin Change](https://leetcode.com/problems/coin-change/)
 
 - [ ] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 
