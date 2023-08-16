@@ -56,7 +56,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Employee Free Time](https://leetcode.com/problems/employee-free-time/)
 
-- [ ] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+- [X] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
 
 ## In-place Reversal of a Linked List
 
