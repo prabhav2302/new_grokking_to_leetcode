@@ -19,7 +19,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 
-- [ ] [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [X] [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 - [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
