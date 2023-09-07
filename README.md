@@ -200,7 +200,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 
-- [ ] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+- [X] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 
 - [X] [Course Schedule](https://leetcode.com/problems/course-schedule/)
 
