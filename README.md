@@ -266,7 +266,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
 
-- [ ] [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
+- [X] [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
 
 - [ ] [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
 
