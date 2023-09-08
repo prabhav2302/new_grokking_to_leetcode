@@ -268,7 +268,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
 
-- [ ] [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
+- [X] [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
 
 - [ ] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 
