@@ -318,20 +318,6 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [LFU Cache](https://leetcode.com/problems/lfu-cache/)
 
-## Bitwise Manipulation
-
-- [ ] [Find the Difference](https://leetcode.com/problems/find-the-difference/)
-
-- [ ] [Complement of Base 10 Number](https://leetcode.com/problems/complement-of-base-10-integer/)
-
-- [ ] [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
-
-- [ ] [Single Number](https://leetcode.com/problems/single-number/)
-
-- [ ] [Two Single Numbers](https://leetcode.com/problems/single-number-iii/)
-
-- [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
-
 ## Challenge Yourself
 
 - [ ] [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
