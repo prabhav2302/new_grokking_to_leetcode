@@ -212,7 +212,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 
-- [ ] [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+- [X] [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 
 - [ ] [Exclusive Execution Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)
 
