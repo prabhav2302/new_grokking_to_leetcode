@@ -276,7 +276,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Knowing What to Track
 
-- [ ] [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)
+- [X] [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)
 
 - [ ] [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)
 
