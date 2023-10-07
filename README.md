@@ -344,7 +344,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [ ] [Permutations II](https://leetcode.com/problems/permutations-ii/)
-- [ ] [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
+- [X] [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
 - [ ] [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 - [ ] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [ ] [Minimum Flips to Make the Binary String Alternate](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/)
