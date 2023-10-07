@@ -320,15 +320,15 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Challenge Yourself
 
-- [ ] [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
+- [X] [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
 - [ ] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 - [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [X] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
-- [ ] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
+- [X] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
 - [ ] [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 - [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 - [ ] [Sort List](https://leetcode.com/problems/sort-list/)
@@ -348,7 +348,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 - [ ] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [ ] [Minimum Flips to Make the Binary String Alternate](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/)
-- [ ] [Lemonade Change](https://leetcode.com/problems/lemonade-change/)
+- [X] [Lemonade Change](https://leetcode.com/problems/lemonade-change/)
 - [ ] [House Robber](https://leetcode.com/problems/house-robber/)
 - [ ] [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [ ] [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
@@ -356,7 +356,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/)
 - [ ] [Design File System](https://leetcode.com/problems/design-file-system/)
 - [ ] [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
-- [ ] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+- [X] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 
 
 
