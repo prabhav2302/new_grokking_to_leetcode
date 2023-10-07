@@ -322,7 +322,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
 - [ ] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
-- [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+- [X] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [X] [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -331,7 +331,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [X] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
 - [ ] [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 - [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
-- [ ] [Sort List](https://leetcode.com/problems/sort-list/)
+- [X] [Sort List](https://leetcode.com/problems/sort-list/)
 - [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [ ] [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
