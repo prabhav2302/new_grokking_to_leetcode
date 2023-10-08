@@ -321,7 +321,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 ## Challenge Yourself
 
 - [X] [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
-- [ ] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+- [X] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 - [X] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
@@ -337,7 +337,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [X] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 - [ ] [4Sum](https://leetcode.com/problems/4sum/)
 - [ ] [Loud and Rich](https://leetcode.com/problems/loud-and-rich/)
-- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [X] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 - [ ] [Majority Element](https://leetcode.com/problems/majority-element/)
