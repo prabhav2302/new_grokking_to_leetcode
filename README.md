@@ -355,7 +355,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
 - [ ] [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/)
 - [ ] [Design File System](https://leetcode.com/problems/design-file-system/)
-- [ ] [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+- [X] [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
 - [X] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 
 
