@@ -257,7 +257,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
 
-- [ ] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+- [X] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 
 - [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 
