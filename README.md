@@ -244,21 +244,8 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 
-- [ ] [Connect All Siblings of a Binary Tree](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+- [X] [Connect All Siblings of a Binary Tree](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 
-## Trie
-
-- [ ] [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
-
-- [ ] [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
-
-- [ ] [Replace Words](https://leetcode.com/problems/replace-words/)
-
-- [ ] [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
-
-- [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/)
-
-- [ ] [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
 
 ## Hash Maps
 
