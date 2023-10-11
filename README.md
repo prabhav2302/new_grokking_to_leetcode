@@ -204,7 +204,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Course Schedule](https://leetcode.com/problems/course-schedule/)
 
-- [ ] [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)
+- [X] [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)
 
 ## Stacks
 
